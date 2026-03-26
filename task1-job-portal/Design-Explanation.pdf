@@ -1,0 +1,36 @@
+UI/UX Design Internship Task – Job Portal
+Tool Used: Figma
+Design Overview
+The goal of this project was to design a clean and user-friendly job portal that helps users
+easily discover jobs, view job details, and apply smoothly. The design focuses on clarity,
+simplicity, and ease of navigation, especially for freshers and job seekers.
+Design Flow
+The user journey is designed as a simple and logical flow:
+1. The user lands on the Main Page, where they can search for jobs and apply filters
+such as location, job type, and experience level. And also, it contains job cards, that it
+shows you can explore more jobs.
+2. In that page we can see filter icon if you click on that an overlay will open then you
+can see the location, job type and experience of the user.
+3. By selecting a job card (UI/UX Design) in the Main Page, the user navigates to the
+Job Description Page, which displays complete information about the selected role.
+4. From the Job Description Page, the user clicks Apply Now to proceed with the
+application.
+5. After submitting the application, then an overlay opens and user sees a success
+confirmation message that informs them about the next steps.
+6. Then if you click back it shows a message about the user clarification or guides to the
+next steps.
+UX Decisions
+• Filters are provided as a pop-up overlay to keep the main page clean while allowing
+quick refinement of job results.
+• Job cards are visually separated to make them easily scannable and clearly clickable.
+• Important job information such as location, salary, experience level, and skills is
+displayed in a structured and readable manner.
+• The Apply Now button is highlighted to encourage action and guide the user toward
+completing the application.
+Application Process
+Although the task did not mention an application form, a simple application form was
+included to complete the job application flow smooth and UX thinking. After
+submitting the form, a success message confirms that the application has been
+submitted and informs the user about further communication.
+This design aims to provide a smooth and intuitive job-search experience while
+maintaining visual consistency and usability across all screens.
